@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/root/NetBeansProjects/GestionDeStock/src/DAO/ProduitUser.java</file>
+            <file>file:/root/NetBeansProjects/GestionDeStock/src/GUI/MainAdminController.java</file>
+            <file>file:/root/NetBeansProjects/GestionDeStock/src/DAO/ForniseurAdmin.java</file>
+            <file>file:/root/NetBeansProjects/GestionDeStock/src/GUI/Login.fxml</file>
+            <file>file:/root/NetBeansProjects/GestionDeStock/src/DAO/Profile.java</file>
+            <file>file:/root/NetBeansProjects/GestionDeStock/src/DAO/ForniseurUser.java</file>
+            <file>file:/root/NetBeansProjects/GestionDeStock/src/DAO/DaoAdmin.java</file>
+            <file>file:/root/NetBeansProjects/GestionDeStock/src/GUI/Admin.fxml</file>
+            <file>file:/root/NetBeansProjects/GestionDeStock/src/GUI/LoginController.java</file>
+            <file>file:/root/NetBeansProjects/GestionDeStock/src/GUI/MainAdmin.fxml</file>
+            <file>file:/root/NetBeansProjects/GestionDeStock/src/DAO/DaoForniseurAdmin.java</file>
+            <file>file:/root/NetBeansProjects/GestionDeStock/src/GUI/AdminController.java</file>
+            <file>file:/root/NetBeansProjects/GestionDeStock/src/Classes/Login.java</file>
+            <file>file:/root/NetBeansProjects/GestionDeStock/src/DAO/Admin.java</file>
+            <file>file:/root/NetBeansProjects/GestionDeStock/src/DAO/ProduitAdmin.java</file>
+        </group>
+    </open-files>
+</project-private>
